@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/.project
+/.settings
+/baconator.lck
+/baconator.lobs
+/baconator.log
+/baconator.properties
+/baconator.script
